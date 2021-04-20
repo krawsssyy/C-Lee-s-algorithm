@@ -1,4 +1,4 @@
-# C-Lee-s-algorithm
+# C++ Lee's Algorithm
 
 This is a C++ implementation of Lee's pathfinding algorithm.
 The algorithm reads from a file called alee.in the coordinates of the walls(areas which cannot be traversed), then the start zone coordinates and end zone coordinates, respectively.
